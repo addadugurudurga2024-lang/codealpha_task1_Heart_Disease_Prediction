@@ -1,0 +1,27 @@
+============================================================
+     HEART DISEASE PREDICTION - CLASSIFICATION REPORT
+============================================================
+
+--- Random Forest Classifier ---
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.97       100
+           1       0.99      0.99      0.99       105
+
+    accuracy                           0.98       205
+   macro avg       0.98      0.98      0.98       205
+weighted avg       0.98      0.98      0.98       205
+
+--- Logistic Regression ---
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.80      0.79       100
+           1       0.81      0.79      0.80       105
+
+    accuracy                           0.80       205
+   macro avg       0.80      0.80      0.79       205
+weighted avg       0.80      0.80      0.79       205
+
+============================================================

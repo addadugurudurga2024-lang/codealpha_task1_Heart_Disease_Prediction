@@ -1,0 +1,11 @@
+============================================================
+       HEART DISEASE PREDICTION - SAMPLE PREDICTIONS
+============================================================
+
+Sample Patient 1:
+Prediction : Heart Disease Present
+
+Sample Patient 2:
+Prediction : No Heart Disease
+
+============================================================
